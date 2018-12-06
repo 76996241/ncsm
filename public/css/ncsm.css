@@ -1,0 +1,52 @@
+.thumb-image{
+    height: 120px;
+
+    border: 1px double #9eacb4;
+    padding: 5px;
+
+}
+
+.am-modal-hd {
+    font-size: 1.6rem;
+    font-weight: 500;
+    padding: 10px 10px 10px 20px;
+    text-align: left;
+    background-color: #FFFFFF;
+}
+.am-modal-bd {
+     border-bottom: 1px solid #dedede;
+     background-color: #FFFFFF;
+     border-radius: 2px 2px 0 0;
+     font-size: 12px;
+     padding: 10px 10px 10px 20px;
+     text-align: left;
+ }
+.red {  color: #f60;  }
+.green{ color: #2ab27b}
+.black{ color: #9eacb4}
+
+
+/*  ------------------------------------------ */
+
+
+.biaozhun{ color: #be590a; width: 100%;font-size: 14px; line-height: 48px; height:48px; border-bottom:1px double #9eacb4; padding: 0px 0px 0px 5px; overflow: hidden}
+.biaozhun .left{float: left;}
+.biaozhun .right{float: right; padding-right: 15px}
+.biaozhunlist{font-size: 12px; line-height: 26px; border-bottom:1px double #9eacb4; padding: 0px 0px 0px 5px; height: 61px; width: 88%; float: right; color: #0e93d7}
+.biaozhunlist li{float: left; border-right: 1px double #9eacb4; padding:4px 8px;}
+.biaozhunlists{font-size: 12px; line-height: 26px; border-bottom:1px double #9eacb4; padding: 0px 0px 0px 5px; height: 35px; width: 88%; float: right; color:#1a1a1a}
+.biaozhunlists li{float: left; border-right: 1px double #9eacb4; padding:4px 8px;}
+.biaozhun input{
+
+    border: 1px solid #ccc;
+    width: 100%;
+}
+#user-user_groups li{ float: left; padding-right: 15px; font-size: 12px; color: #2F3133; line-height: 30px; width: 140px}
+
+.questions-type li{width: 120px; float: left; padding-right: 20px; font-size: 14px; line-height: 30px; color:#485a6a }
+
+/*  ---------------------测量数据样式--------------------- */
+#MeasuresData{ padding-left: 10px}
+#MeasuresData ul{padding: 0;margin: 0}
+#MeasuresData ul li{list-style-type:none;line-height: 30px }
+.strip span{ float: left; margin: 0; padding: 0; width: 12px}

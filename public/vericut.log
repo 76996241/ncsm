@@ -1,0 +1,176 @@
+﻿VERICUT-log
+*---------------------------------------------------------*
+*                                                         *
+*                 Mon Mar 19 17:05:01 2018                *
+*                                                         *
+*---------------------------------------------------------*
+
+
+
+*** 处理数控程序文件C:\Users\Administrator\Desktop\调整测量文件\C42-1\lathe_probe_prog.txt
+Mon Mar 19 17:05:06 2018
+
+
+
+******************** 刀路警告报告 ********************
+警告：在34行
+MSG(MESSAGE,2)
+警告：FEATURE MAIN02 | Measured VALUE = 61.99 | Theoretical VALUE = 62
+
+
+******************** 刀路警告报告 ********************
+警告：在34行
+MSG(MESSAGE,2)
+警告：FEATURE MAIN15 | Measured VALUE = 50 | Theoretical VALUE = 50
+
+
+******************** 刀路警告报告 ********************
+警告：在34行
+MSG(MESSAGE,2)
+警告：FEATURE MAIN16 | Measured VALUE = 65.98 | Theoretical VALUE = 66
+
+
+******************** 刀路警告报告 ********************
+警告：在34行
+MSG(MESSAGE,2)
+警告：FEATURE Seco02 | Measured VALUE = 69.9821 | Theoretical VALUE = 70
+
+
+******************** 刀路警告报告 ********************
+警告：在34行
+MSG(MESSAGE,2)
+警告：FEATURE Seco01 | Measured VALUE = 65.98 | Theoretical VALUE = 66
+
+
+******************** 刀路警告报告 ********************
+警告：在130行
+MSG(MESSAGE,2)
+警告：FEATURE Seco07 | Measured VALUE = 10.01 | Theoretical VALUE = 10
+
+
+******************** 刀路警告报告 ********************
+警告：在130行
+MSG(MESSAGE,2)
+警告：FEATURE Seco08 | Measured VALUE = 30 | Theoretical VALUE = 30
+
+
+******************** 刀路警告报告 ********************
+警告：在130行
+MSG(MESSAGE,2)
+警告：FEATURE Seco05 | Measured VALUE = 42.936 | Theoretical VALUE = 43
+
+
+******************** 刀路警告报告 ********************
+警告：在84行
+MSG(MESSAGE,2)
+警告：FEATURE Seco06 | Measured VALUE = 45 | Theoretical VALUE = 45
+
+
+******************** 刀路警告报告 ********************
+警告：在34行
+MSG(MESSAGE,2)
+警告：FEATURE MAIN16 | Measured VALUE = 63.98 | Theoretical VALUE = 66
+
+******************** 刀路警告报告 ********************
+警告：在34行
+MSG(MESSAGE,2)
+警告：FEATURE MAIN16 | Measured VALUE = 62.98 | Theoretical VALUE = 66
+
+******************** 刀路警告报告 ********************
+警告：在34行
+MSG(MESSAGE,2)
+警告：FEATURE MAIN16 | Measured VALUE = 64.98 | Theoretical VALUE = 66
+
+******************** 刀路警告报告 ********************
+警告：在34行
+MSG(MESSAGE,2)
+警告：FEATURE MAIN16 | Measured VALUE = 68.98 | Theoretical VALUE = 66
+
+******************** 刀路警告报告 ********************
+警告：在34行
+MSG(MESSAGE,2)
+警告：FEATURE MAIN16 | Measured VALUE = 69.98 | Theoretical VALUE = 66
+
+******************** 刀路警告报告 ********************
+警告：在34行
+MSG(MESSAGE,2)
+警告：FEATURE MAIN03 | Measured VALUE = 28 | Theoretical VALUE = 28
+
+
+******************** 刀路警告报告 ********************
+警告：在34行
+MSG(MESSAGE,2)
+警告：FEATURE MAIN04 | Measured VALUE = 49 | Theoretical VALUE = 49
+
+
+******************** 刀路警告报告 ********************
+警告：在265行
+MSG(MESSAGE,2)
+警告：FEATURE MAIN06 | Measured VALUE = 146.9998 | Theoretical VALUE = 147
+
+
+******************** 刀路警告报告 ********************
+警告：在34行
+MSG(MESSAGE,2)
+警告：FEATURE MAIN07 | Measured VALUE = 53 | Theoretical VALUE = 53
+
+
+******************** 刀路警告报告 ********************
+警告：在84行
+MSG(MESSAGE,2)
+警告：FEATURE MAIN14 | Measured VALUE = 6 | Theoretical VALUE = 6
+
+
+******************** 刀路警告报告 ********************
+警告：在84行
+MSG(MESSAGE,2)
+警告：FEATURE MAIN10 | Measured VALUE = 40 | Theoretical VALUE = 40
+
+
+******************** 刀路警告报告 ********************
+警告：在130行
+MSG(MESSAGE,2)
+警告：FEATURE Seco10 | Measured VALUE = 15 | Theoretical VALUE = 15
+
+
+******************** 刀路警告报告 ********************
+警告：在130行
+MSG(MESSAGE,2)
+警告：FEATURE Seco09 | Measured VALUE = 23 | Theoretical VALUE = 23
+
+
+******************** 刀路警告报告 ********************
+警告：在34行
+MSG(MESSAGE,2)
+警告：FEATURE Seco3 | Measured VALUE = 95.9806 | Theoretical VALUE = 96
+
+
+******************** 刀路警告报告 ********************
+警告：在34行
+MSG(MESSAGE,2)
+警告：FEATURE Seco4 | Measured VALUE = 79.9869 | Theoretical VALUE = 80
+
+
+*** 结束数据处理数控程序文件C:\Users\Administrator\Desktop\调整测量文件\C42-1\lathe_probe_prog.txt
+Mon Mar 19 17:05:07 2018
+
+***************************************************************************************************************
+刀路文件 : C:\Users\Administrator\Desktop\调整测量文件\C42-1\lathe_probe_prog.txt
+
+                                  刀具摘要
+                                 ==============
+
+Seq.  记录          刀具描述  刀具高度  刀具伸出  时间      空刀时间
+---------------------------------------------------------------------------------------------------------------
+   1     2: T3 D1 M6  3:            150           N/A           0:40:07.0   100%        
+   2    33: T2 D1 M6  2:            100           N/A           0:05:49.0   100%        
+   3    59: T2 D1 M6  2:            100           N/A           0:07:15.7   100%        
+   4    88: T2 D1 M6  2:            100           N/A           0:18:40.2   100%        
+===============================================================================================================
+      总时间:                                                1:11:51.9   100%        
+
+错误数: 0
+警告数: 19
+从最近的倒回总的循环时间: 1:11:51.9
+从最近的倒回总空刀时间: 1:11:51.9
+***************************************************************************************************************
