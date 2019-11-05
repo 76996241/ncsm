@@ -80,3 +80,8 @@ rebase的目的是使得我们在查看历史提交的变化时更容易，因�
 
 命令git push origin :refs/tags/<tagname>可以删除一个远程标签。
 
+
+git reset --hard 89634d2a52cb6f371081e7dc1c6cc9391522b910   回滚
+
+git push origin master -f
+
