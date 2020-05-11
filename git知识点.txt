@@ -85,3 +85,13 @@ git reset --hard 89634d2a52cb6f371081e7dc1c6cc9391522b910   回滚
 
 git push origin master -f
 
+git commit --no-verify -m "examBug"  解决提交问题
+
+git merge dev合并分支
+
+
+
+
+
+
+
